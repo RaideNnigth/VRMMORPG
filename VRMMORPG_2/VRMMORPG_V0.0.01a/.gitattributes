@@ -1,5 +1,0 @@
-Farm/Textures/Atlas1.tif filter=lfs diff=lfs merge=lfs -text
-VRMMORPG_2/VRMMORPG_V0.0.01a/Assets/Cartoon filter=lfs diff=lfs merge=lfs -text
-Town filter=lfs diff=lfs merge=lfs -text
-and filter=lfs diff=lfs merge=lfs -text
-VRMMORPG_2/VRMMORPG_V0.0.01a/Assets/StylizedNatureBundle/Textures/T_SNB_Skybox_02.tga filter=lfs diff=lfs merge=lfs -text
