@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mount Timpanogos Early 2017
+* source:	https://sketchfab.com/3d-models/mount-timpanogos-early-2017-af5dfd9ef50d4b68bbfcc1ed284985ae
+* author:	Scott Nebeker (https://sketchfab.com/scottneb)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mount Timpanogos Early 2017" (https://sketchfab.com/3d-models/mount-timpanogos-early-2017-af5dfd9ef50d4b68bbfcc1ed284985ae) by Scott Nebeker (https://sketchfab.com/scottneb) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

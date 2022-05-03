@@ -1,0 +1,11 @@
+Model Information:
+* title:	Arc de Triumphe Paris
+* source:	https://sketchfab.com/3d-models/arc-de-triumphe-paris-3ecde6dbbcde48ffb84ea7fe93485cd7
+* author:	tux (https://sketchfab.com/tux)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Arc de Triumphe Paris" (https://sketchfab.com/3d-models/arc-de-triumphe-paris-3ecde6dbbcde48ffb84ea7fe93485cd7) by tux (https://sketchfab.com/tux) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
